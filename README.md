@@ -23,7 +23,9 @@ Currently growing my skills and working on new projects every day. 🚀
 
 #### 🌐 Web Development
 - HTML  
-- CSS  
+- CSS
+- Nodejs, Expressjs
+- React (running)
 
 #### 💻 Programming Languages
 - C  
@@ -31,6 +33,7 @@ Currently growing my skills and working on new projects every day. 🚀
 
 #### 🗄️ Database
 - SQL Server (Database Management)
+- MongoDb
 
 ---
 
